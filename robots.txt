@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /projects/ineo/
+Disallow: /projects/bernhardt-fudyma-design-group/
+Disallow: /projects/coconut-milk-yogurt/
+Disallow: /projects/rkl3d/
+Disallow: /projects/bfdg40/
+Disallow: /projects/nyc-charter-schools-center/
